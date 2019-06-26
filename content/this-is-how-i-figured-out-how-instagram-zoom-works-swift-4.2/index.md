@@ -1,8 +1,8 @@
 ---
-title: "This is how i figured out how Instagram zoom works — Swift 4.2"
-description: "We’ll replicate the IG pinch/drag feature that Instagram has on feed’s photos"
-date: "2018-11-09T21:31:45.241Z"
-categories: 
+title: 'This is how i figured out how Instagram zoom works — Swift 4.2'
+description: 'We’ll replicate the IG pinch/drag feature that Instagram has on feed’s photos'
+date: '2018-11-09T21:31:45.241Z'
+categories:
   - iOS
   - Swift
   - Instagram
@@ -63,12 +63,4 @@ Now if you run your app you should can play with the imageView in the center of 
 
 See also: [**Build Your First MacOS App**](https://medium.com/@fede.vitale/build-your-first-macos-app-5d36d3352691)
 
-If you enjoyed what you’ve read consider leave a clap or start following me for more content in the future and make sure to check out my [**Github Profile**](https://github.com/rawnly) and [**Instagram**](https://instagram.com/fede.vitale)  😃
-
----
-
-[![](./asset-4.png)](https://usejournal.com/?utm_source=medium.com&utm_medium=noteworthy_blog&utm_campaign=tech&utm_content=guest_post_image)
-
-📝 Read this story later in [Journal](https://usejournal.com/?utm_source=medium.com&utm_medium=noteworthy_blog&utm_campaign=tech&utm_content=guest_post_read_later_text).
-
-👩‍💻 Wake up every Sunday morning to the week’s most noteworthy stories in Tech waiting in your inbox. [Read the Noteworthy in Tech newsletter](https://usejournal.com/newsletter/noteworthy-in-tech/?utm_source=medium.com&utm_medium=noteworthy_blog&utm_campaign=tech&utm_content=guest_post_text).
+If you enjoyed what you’ve read, consider check out my [**Github Profile**](https://github.com/rawnly) and [**Instagram**](https://instagram.com/fede.vitale) 😃
