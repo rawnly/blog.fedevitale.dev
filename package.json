@@ -61,7 +61,7 @@
     "build": "gatsby build",
     "dev": "gatsby develop",
     "format": "prettier --write src/**/*.{js,jsx}",
-    "start": "npm run dev",
+    "start": "npm run build && npm run serve",
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
     "import-medium-article": "npx --package=medium-to-own-blog parse-medium-article"
